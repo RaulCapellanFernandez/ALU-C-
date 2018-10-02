@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/Interfaz ALU.png</file>
+    </qresource>
+</RCC>
